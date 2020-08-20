@@ -1,0 +1,38 @@
+img {
+  width: 100%;
+}
+.whitehight{
+  height: 300px;
+}
+.text1{
+  left: -61px;
+    top: 53px;
+}
+.text2{
+  text-align: right;
+    bottom: 0px;
+    right: 0;
+    align-self: flex-end;
+}
+h1{
+  
+  font-family: "Monument Extended";
+    color: #f1Db61;
+}
+.paralaxtext{
+  top: -750px;
+  left: -90px;
+}
+body{
+  background: url(../img/hero.jpg) no-repeat 50% 50%;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.four{
+  top: -300px;
+
+}
+.text3{
+  top: -200px !important;
+  left: -127px;
+}
